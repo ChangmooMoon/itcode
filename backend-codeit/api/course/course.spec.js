@@ -1,6 +1,6 @@
 const request = require('supertest')
 const should = require('should')
-const app = require('./index')
+const app = require('../../')
 
 describe('GET /courses', () => {
   describe('요청 성공시에 ', () => {
