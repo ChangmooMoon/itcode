@@ -1,0 +1,7 @@
+.courseCell {
+  border: 1px solid black;
+  margin: 1rem;
+  &:hover {
+    background-color: yellow;
+  }
+}

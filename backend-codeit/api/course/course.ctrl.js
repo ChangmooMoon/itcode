@@ -1,3 +1,4 @@
+const _ = require('lodash')
 let courseId = 7
 let courses = [
     {
